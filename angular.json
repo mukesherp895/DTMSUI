@@ -25,9 +25,16 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/assets/css/jquery.mCustomScrollbar.css",
+              "src/assets/css/style.css",
+              "src/assets/icon/icofont/css/icofont.css",
+              "src/assets/icon/themify-icons/themify-icons.css"
+              
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/common-pages.js"
+
+            ]
           },
           "configurations": {
             "production": {
